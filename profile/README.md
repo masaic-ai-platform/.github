@@ -1,6 +1,6 @@
 # Hi there, we are [Masaic-ai-platform](https://github.com/masaic-ai-platform)! 🚀
 
-[![Discord](https://img.shields.io/discord/123456789012345678?color=7289DA&label=Discord&logo=discord&logoColor=white)](LINK TO BE ADDED)
+[![Discord](https://img.shields.io/discord/123456789012345678?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.com/channels/1335132819260702723/1354795442004820068)
 
 ## 🌟 What do we do?
 
