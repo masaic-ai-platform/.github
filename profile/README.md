@@ -4,7 +4,7 @@
 
 ## 🌟 What do we do?
 
-We are building a Multi AI Agent platform to create innovative, scalable, and integrative AI solutions. Our flagship project, **[open-responses](https://github.com/masaic-ai-platform/open-responses)**, is a unified API that bridges multiple LLM providers through a standardized OpenAI-like interface.
+We are building a Agent platform to create innovative, scalable, and integrative AI solutions. Our flagship project, **[open-responses](https://github.com/masaic-ai-platform/open-responses)**, is a unified API that bridges multiple LLM providers through a standardized OpenAI-like interface.
 
 ## Current Project
 
