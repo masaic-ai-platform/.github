@@ -1,4 +1,4 @@
-# Hi there, we are [Masaic-ai-platform](https://github.com/masaic-ai-platform)! 🚀
+# Hi there, we are [Masaic-ai-platform](https://masaic.ai/)! 🚀
 
 ## 🌟 What do we do?
 
