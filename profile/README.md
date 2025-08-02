@@ -4,11 +4,11 @@
 
 We are building **AgC** - an open-core platform that powers **Open Agentic Compute**, a new compute substrate purpose-built for deploying, running, and orchestrating AI agents at scale.
 
-Our flagship project, **[AgC](https://github.com/openagenticcompute/AgC)**, treats agents as first-class compute units. Think of it as what EC2 did for VMs — but for agents. Modular, observable, cloud-neutral, and production-ready.
+Our flagship project, **[AgC](https://github.com/masaic-ai-platform/AgC)**, treats agents as first-class compute units. Think of it as what EC2 did for VMs — but for agents. Modular, observable, cloud-neutral, and production-ready.
 
 ## Current Project
 
-### [AgC - Open Agentic Compute Platform](https://github.com/openagenticcompute/AgC)
+### [AgC - Open Agentic Compute Platform](https://github.com/masaic-ai-platform/AgC)
 A comprehensive agentic orchestration platform that provides:
 
 - 🔧 **Built-in agentic tool/function calling**
