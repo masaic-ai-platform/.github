@@ -9,7 +9,7 @@ Our flagship project, **[AgC](https://github.com/masaic-ai-platform/AgC)**, trea
 ## Current Project
 
 ### [AgC - Open Agentic Compute Platform](https://github.com/masaic-ai-platform/AgC)
-A comprehensive agentic orchestration platform that provides:
+A comprehensive agentic compute that provides:
 
 - 🔧 **Built-in agentic tool/function calling**
 - ✅ **Built-in Remote MCP server Integrations**
